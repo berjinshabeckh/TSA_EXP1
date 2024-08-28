@@ -20,7 +20,7 @@ plt.xlabel("Hours")
 plt.ylabel("Scores")
 plt.title("Student Study Hours")
 plt.show()
-
+````
 
 
 
